@@ -21,7 +21,18 @@ Here are some ideas to get you started:
 🔭 I’m currently working as a postdoctor on the [Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences](http://english.nieer.cas.cn/).
 
 ### Introduction
-My research focuses on understanding environmental hazards in cold regions influenced by climate change and human activities. I investigate permafrost degradation, active layer changes, geological hazards like surface subsidence, mining effects, and thermal thawing landslides. These factors impact critical infrastructure such as roads, railroads, and reservoirs. I utilize various methods, including RS, UAV, InSAR, GIS, signal processing, computational simulation, and machine learning.
+⚡My research focuses on understanding environmental hazards in cold regions influenced by climate change and human activities. I investigate permafrost degradation, active layer changes, geological hazards like surface subsidence, mining effects, and thermal thawing landslides. These factors impact critical infrastructure such as roads, railroads, and reservoirs. I utilize various methods, including RS, UAV, InSAR, GIS, signal processing, computational simulation, and machine learning.
+### Disciplines
+🌱Remote Sensing; Geoinformatics (GIS); Geography; Civil Engineering; Environmental Engineering.
+### Skills and expertise
+👯Unmanned Aerial Vehicle; Permafrost; Remote Monitoring; Unmanned Aerial Vehicles; GIS Application; Remote Sensing; GIS Analysis; GIS Mapping; Remote Sensing Technology; Synthetic Aperture Radar (SAR).
+### Languages
+😄Mandarin Chinese; English.
+### Contact information
+📫xbdqs@lzb.ac.cn
+
+
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
