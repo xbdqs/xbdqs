@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Make+decisions+carefully.;Think+about+it+first.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du.;Welcome+to+my+homepage.)
 
 🔭 I’m currently working on ..
 
