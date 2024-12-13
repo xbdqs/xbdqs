@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du.;Welcome+to+my+homepage.)
 
 ## About me
-🔭 I’m currently working on ..
+🔭 I’m currently as a postdoctor, working on the Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences.
 
+### Introduction
+My research focuses on understanding environmental hazards in cold regions influenced by climate change and human activities. I investigate permafrost degradation, active layer changes, geological hazards like surface subsidence, mining effects, and thermal thawing landslides. These factors impact critical infrastructure such as roads, railroads, and reservoirs. I utilize various methods, including RS, UAV, InSAR, GIS, signal processing, computational simulation, and machine learning.
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
