@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Publications
 ### Joural article
 
-- ==Qingsong Du==, Guoyu Li, Dun Chen, Shunshun Qi, Yu Zhou, Fei Wang, Yapeng Cao. **Extracting water body data based on SDWI and threshold segmentation: A case study in permafrost area surrounding Salt Lake in Hoh Xil, Qinghai-Tibet Plateau, China**. _Research in Cold and Arid Regions_. https://doi.org/10.1016/j.rcar.2023.08.002
+- **Qingsong Du**, Guoyu Li, Dun Chen, Shunshun Qi, Yu Zhou, Fei Wang, Yapeng Cao. **Extracting water body data based on SDWI and threshold segmentation: A case study in permafrost area surrounding Salt Lake in Hoh Xil, Qinghai-Tibet Plateau, China**. _Research in Cold and Arid Regions_. 2023,15(04),202-209; https://doi.org/10.1016/j.rcar.2023.08.002
 - **Qingsong Du**, Dun Chen, Guoyu Li, Yapeng Cao, Yu Zhou, Mingtang Chai, Fei Wang, Shunshun Qi, Gang Wu, Kai Gao, Chunqing Li. **Preliminary Study on InSAR-Based Uplift or Subsidence Monitoring and Stability Evaluation of Ground Surface in the Permafrost Zone of the Qinghai–Tibet Engineering Corridor, China**. _Remote Sensing_. 2023, 15(15), 3728; https://doi.org/10.3390/rs15153728
 
 
