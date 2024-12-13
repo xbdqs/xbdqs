@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 ### Contact information
 📫xbdqs@lzb.ac.cn; [ResearchGate](https://www.researchgate.net/profile/Qingsong-Du)
 
+## Publications
+### Joural article
 
+- Qingsong Du, Guoyu Li, Dun Chen, Shunshun Qi, Yu Zhou, Fei Wang, Yapeng Cao. Extracting water body data based on SDWI and threshold segmentation: A case study in permafrost area surrounding Salt Lake in Hoh Xil, Qinghai-Tibet Plateau, China. Research in Cold and Arid Regions. https://doi.org/10.1016/j.rcar.2023.08.002
+
+### Conforence paper
 
 
 <!--
