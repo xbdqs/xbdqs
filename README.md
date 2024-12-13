@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbdqs)
-![trophy](https://github-profile-trophy.vercel.app/?username=xbdqs)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xbdqs)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xbdqs)
-![](https://stats.justsong.cn/api/leetcode?username=xbdqs&cn=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xbdqs)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 
 
