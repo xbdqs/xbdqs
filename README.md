@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=xbdqs)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xbdqs)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xbdqs)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xbdqs)
+
 
 
