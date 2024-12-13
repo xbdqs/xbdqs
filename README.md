@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Make+decisions+carefully.;Think+about+it+first.)
+
 🔭 I’m currently working on ..
 
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbdqs)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xbdqs)
 -->
