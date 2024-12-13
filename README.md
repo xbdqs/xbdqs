@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Languages
 😄Mandarin Chinese; English.
 ### Contact information
-📫xbdqs@lzb.ac.cn
+📫xbdqs@lzb.ac.cn; [ResearchGate](https://www.researchgate.net/profile/Qingsong-Du)
 
 
 
