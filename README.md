@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du.;Welcome+to+my+homepage.)
-
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xbdqs)
 ## About me
 🔭 I’m currently working as a postdoctor on the [State Key Laboratory of Frozen Soil Engineering](http://sklfse.nieer.ac.cn/), [Northwest Institute of Eco-Environment and Resources](http://english.nieer.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/).
 
@@ -77,6 +76,15 @@ Here are some ideas to get you started:
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
+![](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbdqs)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xbdqs)
 -->
