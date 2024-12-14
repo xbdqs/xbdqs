@@ -1,4 +1,4 @@
-## Hi there 👋. I major in $\color{red}{Remote}\color{red}{Sensing}$ technologies applications in cold engineering and environment. If you are interesred abou me, you can find detail information below.
+## Hi there 👋. I major in $\color{red}{Remote} \color{red}{Sensing}$ technologies applications in cold engineering and environment. If you are interesred abou me, you can find detail information below.
 <!--
 **xbdqs/xbdqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
