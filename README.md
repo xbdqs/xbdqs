@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xbdqs)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Qingsong+Du;Welcome+to+my+homepage.)
 ## About me
 🔭 I’m currently working as a postdoctor on the [State Key Laboratory of Frozen Soil Engineering](http://sklfse.nieer.ac.cn/), [Northwest Institute of Eco-Environment and Resources](http://english.nieer.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/).
 
