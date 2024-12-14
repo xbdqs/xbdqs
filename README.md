@@ -1,10 +1,4 @@
-## Hi there 👋. I major in `Remote Sensing` technologies applications in cold engineering and environment. If you are interesred abou me, you can find detail information below.
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-<font color=#00ffff size=72>color=#00ffff</font>
-<font color=gray size=72>color=gray</font>
+## Hi there 👋. I major in ``Remote Sensing`` technologies applications in cold engineering and environment. If you are interesred abou me, you can find detail information below.
 <!--
 **xbdqs/xbdqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
