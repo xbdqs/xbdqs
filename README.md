@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xbdqs)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du,+welcome+to+my+homepage;+I+am+a+sunshine+boy+from+China.+I+major+in+Remote+Sensing+technologies+application+in+cold+engineering+and+environment.+If+you+are+interested+about+me,+you+can+find+detail+information+below.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du;Welcome+to+my+homepage.)
 ## About me
-🔭 I’m currently working as a postdoctor on the [State Key Laboratory of Frozen Soil Engineering](http://sklfse.nieer.ac.cn/), [Northwest Institute of Eco-Environment and Resources](http://english.nieer.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/).
+🔭 I am a sunshine boy from China. I major in Remote Sensing technologies applications in cold engineering and environment. If you are interesred abou me, you can find detail information below.
+I’m currently working as a postdoctor on the [State Key Laboratory of Frozen Soil Engineering](http://sklfse.nieer.ac.cn/), [Northwest Institute of Eco-Environment and Resources](http://english.nieer.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/). 
 
 ### Introduction
 ⚡My research focuses on understanding environmental hazards in cold regions influenced by climate change and human activities. I investigate permafrost degradation, active layer changes, geological hazards like surface subsidence, mining effects, and thermal thawing landslides. These factors impact critical infrastructure such as roads, railroads, and reservoirs. I utilize various methods, including RS, UAV, InSAR, GIS, signal processing, computational simulation, and machine learning.
