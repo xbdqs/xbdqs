@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xbdqs)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Qingsong+Du;Welcome+to+my+homepage.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du,welcome+to+my+homepage.I+am+a+sunshine+boy+from+China.;I+major+in+Remote+Sensing+technologies+application+in+cold+engineering+and+environment.;If+you+are+interested+about+me,+you+can+find+detail+information+below.)
 ## About me
 🔭 I’m currently working as a postdoctor on the [State Key Laboratory of Frozen Soil Engineering](http://sklfse.nieer.ac.cn/), [Northwest Institute of Eco-Environment and Resources](http://english.nieer.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/).
 
