@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbdqs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbdqs)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Qingsong+Du.;Welcome+to+my+homepage.)
 
 ## About me
