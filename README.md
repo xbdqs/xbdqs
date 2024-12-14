@@ -52,6 +52,13 @@ Here are some ideas to get you started:
 
 
 ### Conforence paper
+- **Qingsong Du**, Guoyu Li, Dun Chen, Shunshun Qi, and Chunqing Li. ***2024***. **Acquisition of Mountain DEMs Using D-InSAR for UAV Aerial Survey Route Planning**. _In Proceedings of the 2024 20th International Conference on Cold Regions Engineering_. American Society of Civil Engineers, Reston, VA, USA, 389-398. https://doi.org/10.1061/9780784485460.036
+- **Qingsong Du**, Guoyu Li, Yu Zhou, Gang Wu, Mingtang Chai, and Fayong Li. ***2021***. **Distribution Characterization Study of the Heavy Metals for a Mining Area of East Tianshan Mountain in Xinjiang Based on the Kriging Interpolation Method**. _In Proceedings of the 2020 7th International Conference on Civil Engineering (ICCE2020)_.  IOP Publishing Ltd: Nanchang, China, 2021; Vol. 719. https://doi.org/10.1088/1755-1315/719/4/042063.
+- Guoyu Li, Wei Ma, Dun Chen, and **Qingsong Du**. ***2024***. **Engineering Distresses along the Major Permafrost Engineering on the Qinghai–Tibetan Plateau**. _In Proceedings of the 2024 20th International Conference on Cold Regions Engineering_. American Society of Civil Engineers, Reston, VA, USA, 60-66. https://doi.org/10.1061/9780784485460.006
+- Changzhi Liu, Yuncheng Mao, and **Qingsong Du**. ***2024***. **Surface Deformation Monitoring in the Xidatan-Kunlun Mountain Pass Region Based on Time-series InSAR Technology**. _In Proceedings of the 2024 9th International Conference on Cyber Security and Information Engineering (ICCSIE '24)_. Association for Computing Machinery, New York, NY, USA, 556–563. https://doi.org/10.1145/3689236.3689288
+
+
+
 
 
 <!--
